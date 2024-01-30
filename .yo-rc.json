@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.19.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "coesa-css-provider-application-customizer",
+    "libraryId": "552d68ef-608c-43d6-a1a6-82ee7eb212c2",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "coesa-css-provider-application-customizer",
+    "solutionShortDescription": "coesa-css-provider-application-customizer description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
